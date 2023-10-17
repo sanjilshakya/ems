@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-const BASE_URL = "";
+// const BASE_URL = "";
 
 function Login() {
   const [email, setEmail] = useState("");
